@@ -1,6 +1,6 @@
 {
-  "name": "restler",
-  "version": "3.4.0",
+  "name": "@connected-home/restler",
+  "version": "3.4.1",
   "description": "An HTTP client library for node.js",
   "contributors": [
     {
@@ -12,10 +12,10 @@
       "email": "ben@marvell-consulting.com"
     }
   ],
-  "homepage": "https://github.com/danwrong/restler",
+  "homepage": "https://github.com/ConnectedHomes/restler",
   "repository": {
     "type": "git",
-    "url": "https://github.com/danwrong/restler.git"
+    "url": "https://github.com/ConnectedHomes/restler.git"
   },
   "directories": {
     "lib": "./lib"
